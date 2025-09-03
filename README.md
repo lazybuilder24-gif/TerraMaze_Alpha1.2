@@ -242,7 +242,8 @@
 </head>
 <body>
 <div id="game-container" aria-live="polite">
-  <h1>By Empire XTerra<h1>
+  <h1>TerraMaze Alpha 1.2
+    By Empire XTerra<h1>
   </h1>
   <div class="maze-container">
     <canvas id="maze-canvas" width="500" height="500" tabindex="0" aria-label="Labyrinth maze"></canvas>
@@ -567,4 +568,3 @@ canvas.focus();
 </script>
 </body>
 </html>
-
